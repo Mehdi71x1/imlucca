@@ -1,0 +1,8 @@
+{
+  "male_prefixes": ["md", "mohammad", "mr"],
+  "female_prefixes": ["mst", "mrs", "miss"],
+  "male_endings": ["uddin", "ullah", "hossain"],
+  "female_endings": ["begum", "khatun", "akter"],
+  "male_keywords": ["hassan", "ali", "islam"],
+  "female_keywords": ["tumpa", "munni", "moni"]
+}

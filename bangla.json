@@ -1,0 +1,8 @@
+{
+  "male_prefixes": ["মোঃ", "মোহাম্মদ"],
+  "female_prefixes": ["মোসাঃ", "মিসেস"],
+  "male_endings": ["হোসন", "উদ্দিন"],
+  "female_endings": ["বেগম", "খাতুন"],
+  "male_keywords": ["রাজকুমার", "রাজা"],
+  "female_keywords": ["রানী", "পরী"]
+}
